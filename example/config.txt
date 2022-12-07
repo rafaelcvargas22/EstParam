@@ -1,2 +1,2 @@
 Prefix plugins/estParam/example
-Plugin EstParam inputfile numbers.txt outputfile output.txt
+Plugin estParam inputfile numbers.txt outputfile output.txt
